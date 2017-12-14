@@ -1,6 +1,6 @@
 #Reporting-Tool
 
-Working examples: <a href="http://jlbworks.com/WebLifeReport.php" target="_blank">here</a> and <a href="http://franklinis.com/WebLifeReport.php" target="_blank">here</a>
+Working examples: <a href="http://jlbworks.com/WebLifeReport.php" target="_blank">here</a> and <a href="http://franklinis.com/WebLifeReport.php" target="_blank">here</a> *right click to open in new tab. Github doesn't allow target="_blank" to work. 
 
 Here are the deployment instructions for the Web Report. This is a working list so if you notice anything that isn't in here and needs to be added please do so. Godspeed.
 
