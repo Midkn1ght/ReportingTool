@@ -1,4 +1,7 @@
 #Reporting-Tool
+
+Working examples: jlbworks.com/WebLifeReport.php and franklinis.com/WebLifeReport.php
+
 Here are the deployment instructions for the Web Report. This is a working list so if you notice anything that isn't in here and needs to be added please do so. Godspeed.
 
 The WLRT needs a few things to be fully operational. Firstly, whatever site you're uploading it to you'll need to install two plugins: https://wordpress.org/plugins/wordfence/ and https://wordpress.org/plugins/wp-security-audit-log/
